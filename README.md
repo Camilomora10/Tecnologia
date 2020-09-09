@@ -46,8 +46,8 @@ Para que puedas usar las funciones de los numeros complejos primero tendras que 
 1. Descargar el lenguaje de programacion [phyton](https://www.python.org/downloads/)(click para descargar), ya que nuestras librerias se basan en este lenguaje,usa la version que prefieras.
 2. Necesitaras una consola donde puedas ejecutar phyton, en este caso usaremos [PyCharm Comiunity](https://www.jetbrains.com/es-es/pycharm/download/#section=windows)(click para descargar) pero tu podras usar la que quieras.
 3. Descarga las librerias correspondientes que deseas usar, Dirijase a la opcion ¨Codigo¨ en el inicio de este repositorio, Allí podras descargar los archivos en formato zip.A continuacion te presentamos las librerias con que contamos:
-   * [Libreria de Operaciones Basicas de Numeros Complejos.](https://github.com/Camilomora10/LIBRERIAS-CNYT/blob/master/libreriaComplejos.py).(click para ver)
-   * [Libreria de matrices y Vectores Complejos.](https://github.com/Camilomora10/LIBRERIAS-CNYT/blob/master/vectores_matrices.py).(click para ver)
+   * [Libreria de Operaciones Basicas de Numeros Complejos](https://github.com/Camilomora10/LIBRERIAS-CNYT/blob/master/libreriaComplejos.py).(click para ver)
+   * [Libreria de matrices y Vectores Complejos](https://github.com/Camilomora10/LIBRERIAS-CNYT/blob/master/vectores_matrices.py).(click para ver)
 4. Una vez descargado el archivo zip descomprimelo,  Allí podras encontrar las librerias estas se caracterizan por terminar en .py.
 5. Una vez descargadas las librerias inicialas en la aplicacion pycharm commiunity en la ventana file-open, Allí selecciona la ubicacion donde descargaste las librerias.
 6. Una vez abiertas podra ver las funciones de los numeros complejos y poder usarlas. ¡Disfrutalas!
