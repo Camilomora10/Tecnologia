@@ -129,8 +129,8 @@ if__name__ == '__main__':
  * ## Pruebas
 Las pruebas en un programa nos permiten verificar que las funcionalidades del programa se cumplan correctamente.
 Para este caso usaremos la libreria de python unittest ; la cual es usada para comparar un resultado con otro diciendo si son iguales o no, esta es importada con la línea de codigo import unittest, y la puedes encontrar en nuestro repositorio en formato .py. Los archivos de prueba con que contamos son:
-1. [Unittest Numeros Complejos]().(click para ver)
-2. [Unittest Matrices y Vectores]().(click para ver)
+1. [Unittest Numeros Complejos](https://github.com/Camilomora10/Tecnologia/blob/master/testcomplejo.py).(click para ver)
+2. [Unittest Matrices y Vectores](https://github.com/Camilomora10/Tecnologia/blob/master/testmatrices.py).(click para ver)
 
 A continuacion se mostrara un ejemplo de una prueba de la funcion suma_vectores la cual nos dice el resultado de la suma entre los vectores complejos a y b el cual es igual a [[2, 6], [4, 8]],  de forma analoga sera para las demas funciones:
 ```
