@@ -61,6 +61,13 @@ Para que puedas usar las funciones de los numeros complejos primero tendras que 
 5. Una vez descargadas las librerias inicialas en la aplicacion pycharm commiunity en la ventana file-open, Allí selecciona la ubicacion donde descargaste las librerias.
 6. Una vez abiertas podra ver las funciones de los numeros complejos y poder usarlas. ¡Disfrutalas!
 
+Adicionalmente usamos librerias externa que debes tener instaladas en tu consola para que te funcionen todas nuestras librerias.
+* [Numpy](https://numpy.org/)(Click para descargar).
+* [matplotlib](https://matplotlib.org/downloads.html)(Click para descargar).
+
+Mira el siguiente Tutorial para instalar las librerias en Pycharm Commiunity:
+* [Importar librerias PyCharm Commiunity](https://www.youtube.com/watch?v=aROm4KYHXLI)(Click para ver).
+
 ## Manual de Uso
  * ## Introduccion
 Antes de empezar se debe tener en cuenta la forma en que los numeros complejos seran representados, como se sabe los numeros complejos se caracterizan por tener una parte real  y una imaginaria como se observa a continuacion:
@@ -175,7 +182,7 @@ Las pruebas en un programa nos permiten verificar que las funcionalidades del pr
 Para este caso usaremos la libreria de python unittest ; la cual es usada para comparar un resultado con otro diciendo si son iguales o no, esta es importada con la línea de codigo import unittest, y la puedes encontrar en nuestro repositorio en formato .py. Los archivos de prueba con que contamos son:
 1. [Unittest Numeros Complejos](https://github.com/Camilomora10/Tecnologia/blob/master/test_complejo.py).(click para ver)
 2. [Unittest Matrices y Vectores](https://github.com/Camilomora10/Tecnologia/blob/master/test_matrices.py).(click para ver)
-3. [Unittest Sistemas Clasicos y Caunticos](https://github.com/Camilomora10/Tecnologia/blob/master/test_cuantico.py)
+3. [Unittest Sistemas Clasicos y Caunticos](https://github.com/Camilomora10/Tecnologia/blob/master/test_cuantico.py).(click para ver)
 
 A continuacion se mostrara un ejemplo de una prueba de la funcion suma_vectores la cual nos dice el resultado de la suma entre los vectores complejos a y b el cual es igual a [[2, 6], [4, 8]],  de forma analoga sera para las demas funciones:
 ```
@@ -191,7 +198,8 @@ Primero tienes que descargar el reporsitorio:
 ```
 https://github.com/Camilomora10/Tecnologia.git
 ```
-Ahora Importa las librerias que deseas usar:
+Ahora Importa las librerias que deseas usar.
+
 ejemplo:
 ```
 from sistema_clasico_cuantico import canicas_clicks, probabilistico_clicks, cuantico_clicks
@@ -207,9 +215,9 @@ https://github.com/Camilomora10/Tecnologia.git
 ```
 
 * ## Ejecutar Pruebas Unittest
-1. Descarga Nuestro Repositorio con alguna de las formas que te mostramos antes:
-2. Mira el siguiente tutorial [unittest — Marco de prueba automatizado](https://rico-schmidt.name/pymotw-3/unittest/)(click para ver).
-Recuerda que las pruebas se encuentran en formato en la pagina principal, en las siguientes direcciones:
+1. Descarga Nuestro Repositorio con alguna de las formas que te mostramos antes.
+2. Mira el siguiente tutorial [unittest-Marco de prueba automatizado](https://rico-schmidt.name/pymotw-3/unittest/)(click para ver).
+Recuerda que las pruebas se encuentran en formato .py en la pagina principal del repositorio, en las siguientes direcciones:
 * [Unittest Numeros Complejos](https://github.com/Camilomora10/Tecnologia/blob/master/test_complejo.py).(click para ver)
 * [Unittest Matrices y Vectores](https://github.com/Camilomora10/Tecnologia/blob/master/test_matrices.py).(click para ver)
 * [Unittest Sistemas Clasicos y Caunticos](https://github.com/Camilomora10/Tecnologia/blob/master/test_cuantico.py)
